@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\gabon\source\repos\ex2\testgrade\main.c(16): warning C4005: 'PATH_LENGTH': macro redefinition
+  c:\users\gabon\source\repos\ex2\testgrade\main.c(9): note: see previous definition of 'PATH_LENGTH'
+c:\users\gabon\source\repos\ex2\testgrade\main.c(195): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gabon\source\repos\ex2\testgrade\main.c(200): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gabon\source\repos\ex2\testgrade\main.c(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gabon\source\repos\ex2\testgrade\main.c(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gabon\source\repos\ex2\testgrade\main.c(168): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  TestGrade.vcxproj -> C:\Users\gabon\source\repos\Ex2\Debug\TestGrade.exe
